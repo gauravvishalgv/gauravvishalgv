@@ -1,7 +1,5 @@
 # Hi there, I'm Gaurav Vishal! 👋
 
-![Profile Views]()
-
 ## About Me
 
 I'm a Gaurav Vishal with a passion for . I love working on projects that involve Java, Spring.
