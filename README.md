@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Gaurav Vishal with a passion for . I love working on projects that involve Java, Spring.
+I'm Gaurav Vishal with a passion for coding. I love working on projects that involves Java and Spring.
 
 <!--
 
